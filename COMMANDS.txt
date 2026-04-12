@@ -1,0 +1,5 @@
+(1) python3 media_processor.py -d . --match avengers -n "Kevin Chaja" -wm
+(2) python3 media_processor.py -d . --match infinity -n "Kevin Chaja" -wm -tc
+(3) python3 media_processor.py -d . --match drdoom infinity avengers -n "Kevin Chaja" -wm -gc
+(4) python3 media_processor.py -d . --match drdoom infinity avengers -n "Kevin Chaja" -me -o metadata_report.txt
+(5) python3 media_processor.py -d . -n "Kevin Chaja" -confidential

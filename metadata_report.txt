@@ -1,0 +1,137 @@
+============================================================
+METADATA EXPORT
+Owner  : Kevin Chaja
+Created: 2026-04-11 17:44:08
+============================================================
+
+------------------------------------------------------------
+FILE: avengers_chaja.png
+PATH: ./avengers_chaja.png
+------------------------------------------------------------
+  Format     : piped png sequence
+  Duration   : N/A s
+  File size  : 880882 bytes
+  Bit rate   : N/A bps
+
+  Stream #0
+    Type     : video
+    Codec    : PNG (Portable Network Graphics) image
+    Size     : 1024x576
+    FPS      : 25/1
+    Pix fmt  : rgba
+
+------------------------------------------------------------
+FILE: drdoom_chaja.png
+PATH: ./drdoom_chaja.png
+------------------------------------------------------------
+  Format     : piped png sequence
+  Duration   : N/A s
+  File size  : 1501138 bytes
+  Bit rate   : N/A bps
+
+  Stream #0
+    Type     : video
+    Codec    : PNG (Portable Network Graphics) image
+    Size     : 1920x1079
+    FPS      : 25/1
+    Pix fmt  : rgba
+
+------------------------------------------------------------
+FILE: infinity_chaja.png
+PATH: ./infinity_chaja.png
+------------------------------------------------------------
+  Format     : piped png sequence
+  Duration   : N/A s
+  File size  : 1709548 bytes
+  Bit rate   : N/A bps
+
+  Stream #0
+    Type     : video
+    Codec    : PNG (Portable Network Graphics) image
+    Size     : 1920x1080
+    FPS      : 25/1
+    Pix fmt  : rgba
+
+------------------------------------------------------------
+FILE: avengers_chaja_VFX_Kevin_Chaja_v03_gif.gif
+PATH: /Users/harold/Downloads/Proj3_VFX_chaja_Spring2026/avengers_chaja_VFX_Kevin_Chaja_v03_gif.gif
+------------------------------------------------------------
+  Format     : CompuServe Graphics Interchange Format (GIF)
+  Duration   : 1.000000 s
+  File size  : 48372 bytes
+  Bit rate   : 386976 bps
+
+  Stream #0
+    Type     : video
+    Codec    : CompuServe GIF (Graphics Interchange Format)
+    Size     : 320x180
+    FPS      : 24000/1001
+    Pix fmt  : bgra
+
+------------------------------------------------------------
+FILE: drdoom_chaja_VFX_Kevin_Chaja_v02_gif.gif
+PATH: /Users/harold/Downloads/Proj3_VFX_chaja_Spring2026/drdoom_chaja_VFX_Kevin_Chaja_v02_gif.gif
+------------------------------------------------------------
+  Format     : CompuServe Graphics Interchange Format (GIF)
+  Duration   : 1.000000 s
+  File size  : 41746 bytes
+  Bit rate   : 333968 bps
+
+  Stream #0
+    Type     : video
+    Codec    : CompuServe GIF (Graphics Interchange Format)
+    Size     : 320x180
+    FPS      : 24000/1001
+    Pix fmt  : bgra
+
+------------------------------------------------------------
+FILE: infinity_chaja_VFX_Kevin_Chaja_v04_gif.gif
+PATH: /Users/harold/Downloads/Proj3_VFX_chaja_Spring2026/infinity_chaja_VFX_Kevin_Chaja_v04_gif.gif
+------------------------------------------------------------
+  Format     : CompuServe Graphics Interchange Format (GIF)
+  Duration   : 1.000000 s
+  File size  : 53868 bytes
+  Bit rate   : 430944 bps
+
+  Stream #0
+    Type     : video
+    Codec    : CompuServe GIF (Graphics Interchange Format)
+    Size     : 320x180
+    FPS      : 24000/1001
+    Pix fmt  : bgra
+
+============================================================
+GIF METADATA
+============================================================
+
+GIF File : avengers_chaja_VFX_Kevin_Chaja_v03_gif.gif
+Duration : 1 second
+FPS      : 24
+Frames   : 24 handles (repeated frames)
+File size: 48372 bytes
+Stream #0 — codec: gif res: 320x180
+
+GIF File : drdoom_chaja_VFX_Kevin_Chaja_v02_gif.gif
+Duration : 1 second
+FPS      : 24
+Frames   : 24 handles (repeated frames)
+File size: 41746 bytes
+Stream #0 — codec: gif res: 320x180
+
+GIF File : infinity_chaja_VFX_Kevin_Chaja_v04_gif.gif
+Duration : 1 second
+FPS      : 24
+Frames   : 24 handles (repeated frames)
+File size: 53868 bytes
+Stream #0 — codec: gif res: 320x180
+
+------------------------------------------------------------
+FILES INCLUDED IN GIF RUN (processed names):
+------------------------------------------------------------
+  * avengers_chaja_VFX_Kevin_Chaja_v02_wm.png
+  * drdoom_chaja_VFX_Kevin_Chaja_v01_wm.png
+  * infinity_chaja_VFX_Kevin_Chaja_v03_wm.png
+
+============================================================
+END OF REPORT
+============================================================
